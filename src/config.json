@@ -1,0 +1,7 @@
+{
+    "core": {
+        "token": "BOT_TOKEN",
+        "prefix": ["BOT_PREFIX"],
+        "owners": ["YOUR_ID"]
+    }
+}

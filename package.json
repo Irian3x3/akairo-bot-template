@@ -1,0 +1,20 @@
+{
+  "name": "akairo-template",
+  "version": "1.0.0",
+  "description": "A template for a discord-akairo bot.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node ."
+  },
+  "keywords": [
+    "akairo",
+    "discord"
+  ],
+  "author": "Irian3x3 <irian3x3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.5.1"
+  }
+}
